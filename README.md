@@ -25,4 +25,12 @@ Welcome to the Employee Management System project! This project is designed to s
 - Visual Studio for .NET Web API development
 - SQL Server for database operations
 
+### Home Page - Logged In Status
+![Home Page](./home.png)
+
+### Contact Us - Feedback and Enquiry
+![Contact Us](./contactus.png)
+
+### Employee List - CRUD Operations
+![Employee List](./listofemployees.png)
 
